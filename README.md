@@ -1,1 +1,1 @@
-# ota_zelezny_seminarni_prace
+# Ota_zelezny_seminarni_prace
